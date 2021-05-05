@@ -23,7 +23,7 @@ Feature: S'inscrire sur instagram
 
     Examples:
       | email                   | nom         | nom d'utilisateur | mot de passe |
-      | selimmorali02@gmail.com | selim moral | selimmoral0125    | Fr123456     |
+      | selimmorali02@gmail.com | selim moral | selimmoral0125    | x5xxxxx12     |
 
 
 
